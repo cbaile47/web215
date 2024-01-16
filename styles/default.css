@@ -11,6 +11,36 @@ html {
 	color: rgb(38, 45, 41);
 }
 
+/* Header Style */
+header nav {
+	width:  100%;
+}
+
+header nav ul li {
+	display: block;
+	float: left;
+	position:relative;
+	width: 32%;
+	border: double;
+	border-color: black;
+	background-color: rgb(153, 180, 167);
+}
+
+header nav a {
+	display:  block;
+	text-align:  center;
+}
+
+header nav a:hover, header nav a:active {
+	background-color: rgb(124,158,142);
+	color: white;
+}
+
+/* Horizontal Rule Styles */
+header hr {
+	clear:  left;  
+}
+
 /* H1/H2 Styles */
 h1, h2 {
 	color: rgb(61, 73, 66);
