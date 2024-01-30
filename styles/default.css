@@ -94,7 +94,7 @@ a#validation_link_html, a#validation_link_css {
 }
 
 a {
-	color: rgb(0, 170, 170)
+	color: rgb(0, 170, 170);
 	text-decoration: none;
 }
 
