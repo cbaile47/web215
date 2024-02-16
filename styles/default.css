@@ -32,6 +32,7 @@ header nav ul li {
 header nav a {
 	display:  block;
 	text-align:  center;
+	padding: 0.5em;
 }
 
 header nav a:hover, header nav a:active {
@@ -77,6 +78,7 @@ footer p {
 footer nav {
 	font-size: 100%;
 	text-align: center;
+	padding-top: 1em;
 }
 
 /* Paragraph Style */
@@ -93,13 +95,9 @@ a#validation_link_html, a#validation_link_css {
 	text-decoration: none;
 }
 
-a {
-	color: rgb(0, 170, 170);
+a, a:visited {
+	color: rgb(0, 128, 128);
 	text-decoration: none;
-}
-
-a:visited {
-	color: rgb(0, 128, 128)
 }
 
 /* List Styles */
