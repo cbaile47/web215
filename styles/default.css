@@ -63,6 +63,11 @@ h1, h2 {
 	font-family: 'Roboto Slab', Arial, sans-serif;
 }
 
+h2 {
+	margin-top: 0px;
+	margin-bottom: 16px;
+}
+
 /* Body Style */
 body {
 	margin-left: 25%;
