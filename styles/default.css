@@ -42,7 +42,8 @@ header nav a:hover, header nav a:active {
 
 /* Horizontal Rule Styles */
 header hr {
-	clear:  left;  
+	clear:  left;
+	padding: 6px;
 }
 
 hr {
@@ -93,7 +94,6 @@ footer p {
 footer nav {
 	font-size: 100%;
 	text-align: center;
-	padding-top: 1em;
 }
 
 /* Paragraph Style */
