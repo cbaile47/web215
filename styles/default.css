@@ -45,6 +45,10 @@ header hr {
 	clear:  left;  
 }
 
+hr {
+	visibility: hidden;
+}
+
 /* Main Style */
 main {
 	background-color: rgb(192, 226, 209);
@@ -75,6 +79,12 @@ body {
 }
 
 /* Footer Style */
+footer {
+	background-color: rgb(192, 226, 209);
+    outline: double black;
+    padding-bottom: 0.5px;
+}
+
 footer p {
 	font-size: 100%;
 	text-align: center;
@@ -101,7 +111,7 @@ a#validation_link_html, a#validation_link_css {
 }
 
 a, a:visited {
-	color: rgb(0, 128, 128);
+	color: rgb(0, 102, 102);
 	text-decoration: none;
 }
 
